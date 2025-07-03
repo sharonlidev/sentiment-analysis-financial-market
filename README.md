@@ -12,8 +12,6 @@ This repository implements a machine learning pipeline to analyze **sentiment in
 - **Analyze correlations** between sentiment and financial market movements (e.g. price changes, volatility).
 - **Predict market trends** based on sentiment signals.
 
-> **Disclaimer:** This project is for research and educational purposes only. It does not constitute financial advice.
-
 ---
 
 ## 🛠️ Technologies Used
